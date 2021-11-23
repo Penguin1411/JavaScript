@@ -1,0 +1,46 @@
+.fundo{
+    background-image: linear-gradient(95deg, lightblue, cyan);
+}
+
+#resultado{
+    background-color: white;
+    width: 207px;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+    color: black;
+    text-align: right;
+    padding: 5px;
+}
+
+.calculadora{
+
+    position: absolute;
+    background-color: bisque;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.botao{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: beige;
+    border: none;
+    color: black;
+}
+
+.botao:hover{
+    background-color: silver;
+}
+
+
+p{
+    font-size: 2em;
+    text-align: center;
+}
+

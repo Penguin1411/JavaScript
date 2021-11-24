@@ -1,5 +1,5 @@
 .fundo{
-    background-image: linear-gradient(95deg, lightblue, cyan);
+    background-color: #2066B0;
 }
 
 #resultado{
@@ -16,7 +16,7 @@
 .calculadora{
 
     position: absolute;
-    background-color: bisque;
+    background-color: #D91E2E;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -29,13 +29,13 @@
     height: 50px;
     font-size: 25px;
     cursor: pointer;
-    background-color: beige;
+    background-color: #FDF252;
     border: none;
     color: black;
 }
 
 .botao:hover{
-    background-color: silver;
+    background-color: #C8BF44;
 }
 
 
@@ -44,3 +44,7 @@ p{
     text-align: center;
 }
 
+h1{
+    text-align: center;
+    color: #E2D51D;
+}
